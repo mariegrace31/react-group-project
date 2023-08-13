@@ -167,7 +167,6 @@ npm start
 ## 🔮 Future Features <a name="future-features"></a>
 
 - [ ] 📱 **Booking page**
-- [ ] 📝 **Add style**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
